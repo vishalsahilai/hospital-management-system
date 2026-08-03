@@ -1,5 +1,5 @@
-fastapi[standard]
-uvicorn[standard]
+fastapi
+uvicorn
 sqlalchemy==2.0.35
 alembic==1.13.3
 pydantic==2.9.2
